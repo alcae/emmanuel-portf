@@ -25,7 +25,7 @@ export default function About() {
         <span className="font-medium">soluciones digitales innovadoras y eficientes</span>.{" "}
         <span className="italic"> Mi enfoque se centra en combinar creatividad y tecnología</span> para desarrollar
         productos que no solo cumplan con los requisitos funcionales, sino que también ofrezcan una
-        <span className="underline"> interfaz de usuario excepcional.</span> He trabajado en una amplia
+        <span className="font-medium"> interfaz de usuario excepcional.</span> He trabajado en una amplia
          variedad de proyectos, desde{" "}
         <span className="font-medium">
           aplicaciones móviles para startups hasta complejos sitios web para grandes empresas
@@ -38,7 +38,7 @@ export default function About() {
       <p>
         <span className="italic">Para mí, el desarrollo de software es más que solo escribir código;</span>,  es una forma 
        de resolver problemas y mejorar la vida de las personas a través de la tecnología.{" "}
-        <span className="font-medium">Cada proyecto es una oportunidad para aprender, crecer y aportar algo positivo al mundo digital.</span>.
+        <span className="font-medium">Cada proyecto es una oportunidad para aprender, crecer y aportar algo positivo al mundo digital</span>.
       </p>
     </motion.section>
   );
