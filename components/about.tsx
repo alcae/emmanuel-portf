@@ -36,7 +36,7 @@ export default function About() {
       </p>
 
       <p>
-        <span className="italic">Para mí, el desarrollo de software es más que solo escribir código;</span>,  es una forma 
+        <span className="italic">Para mí, el desarrollo de software es más que solo escribir código</span>,  es una forma 
        de resolver problemas y mejorar la vida de las personas a través de la tecnología.{" "}
         <span className="font-medium">Cada proyecto es una oportunidad para aprender, crecer y aportar algo positivo al mundo digital</span>.
       </p>
