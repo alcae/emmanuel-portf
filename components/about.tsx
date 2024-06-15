@@ -19,30 +19,26 @@ export default function About() {
     >
       <SectionHeading>Acerca de mí</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
+        Soy un apasiado{" "}
+        <span className="font-medium">desarrollador de aplicaciones y sitios web</span> con más de 2 años de experiencia
+        en la creación de {" "}
+        <span className="font-medium">soluciones digitales innovadoras y eficientes</span>.{" "}
+        <span className="italic"> Mi enfoque se centra en combinar creatividad y tecnología</span> para desarrollar
+        productos que no solo cumplan con los requisitos funcionales, sino que también ofrezcan una
+        <span className="underline"> interfaz de usuario excepcional.</span> He trabajado en una amplia
+         variedad de proyectos, desde{" "}
         <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
+          aplicaciones móviles para startups hasta complejos sitios web para grandes empresas
         </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+        . Esta diversidad me ha permitido adquirir habilidades en múltiples lenguajes
+        y tecnologías , incluyendo {" "}
+        <span className="font-medium">React, Next.js, Node.js, Flutter, PHP, HTML, CSS, JavaScript, etc...</span>
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my dog. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also
-        learning how to play the guitar.
+        <span className="italic">Para mí, el desarrollo de software es más que solo escribir código;</span>,  es una forma 
+       de resolver problemas y mejorar la vida de las personas a través de la tecnología.{" "}
+        <span className="font-medium">Cada proyecto es una oportunidad para aprender, crecer y aportar algo positivo al mundo digital.</span>.
       </p>
     </motion.section>
   );
