@@ -15,7 +15,7 @@ export default function About() {
       initial={{ opacity: 0, y: 100 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ delay: 0.175 }}
-      id="acerca de"
+      id="about"
     >
       <SectionHeading>Acerca de mí</SectionHeading>
       <p className="mb-3">
